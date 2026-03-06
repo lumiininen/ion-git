@@ -1,0 +1,7 @@
+/result
+/result-*
+/target/
+.direnv/
+.envrc
+*.swp
+*~
