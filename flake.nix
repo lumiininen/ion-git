@@ -1,3 +1,9 @@
+# Copyright (c) Lumiini
+# All rights reserved.
+#
+# This file is licensed under the MIT license (found in the
+# LICENSE file in the root directory of this source tree).
+
 {
   description = "Ion shell from latest master";
 
